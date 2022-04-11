@@ -1,3 +1,22 @@
+## Pokemeon Api
+
+Esta web se trata de una web que consume la api de pokeapi, está adaptada para móvil, tablet. 
+
+Junto a esto esta web/app está realizada en su totalidad en React y JavaScript junto a dentro de ya la API esta consumida de la mano de axios y le he añadido un spinner. 
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+
+![Screenshot 2022-04-11 092743](https://user-images.githubusercontent.com/32551746/162686371-2032d62b-24c9-4dab-8a54-27c9353f0089.png)
+
+<h1 align="center">Contacto</h1> 
+
+👨‍💻 Portafolio https://jairosanchezb94.github.io/portafolio-js/
+
+📝 Linkedin [https://www.linkedin.com/in/jairo-sanchez-64416a12b/](https://www.linkedin.com/in/jairo-sanchez-64416a12b/)
+
+📫 How to reach me **jairosanchezb5@gmail.com**
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
